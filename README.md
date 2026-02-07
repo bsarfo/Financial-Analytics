@@ -1,2 +1,1 @@
-# Financial-Analytics
-Technical_Analysis_and_Strategy_Backtesting
+This repository contains empirical financial market analyses covering (i) the predictive power of the U.S. Treasury yield curve for recessions, (ii) a risk–return comparison of NVDA versus gold (GLD), and (iii) validation of stylized facts in Bitcoin returns. Using historical data, statistical tests, and volatility diagnostics, the projects demonstrate how bond markets anticipate economic slowdowns, how higher returns translate into risk-adjusted performance, and how digital assets share, yet structurally diverge from the statistical properties of traditional equity markets.
